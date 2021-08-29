@@ -43,7 +43,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="MRvirusIR's GitHub Stats" src="https://github-readme-stats.vercel.app/apiMRvirusIR&show_icons=true&theme=dark" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRvirusIR&show_icons=true&theme=radical)
+
+</a>
 
 </details>
 
