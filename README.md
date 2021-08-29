@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Amir - aka [MRvirusIR][website] 👋
 
-[![Website](https://img.shields.io/website?label=MRvirusIR.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://MRvirusIR.com)
+[![Website](https://img.shields.io/website?label=MRvirusIR.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://MRvirusIR.ir)
 
 ## I'm a Developer!!
 
