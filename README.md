@@ -1,6 +1,6 @@
 # MRvirusIR-
 
-### Hi there, I'm Jesse - aka [MRvirusIR][website] 👋
+### Hi there, I'm Amir - aka [MRvirusIR][website] 👋
 
 [![Website](https://img.shields.io/website?label=MRvirusIR.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://MRvirusIR.com)
 
