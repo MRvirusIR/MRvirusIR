@@ -11,8 +11,8 @@
 ### Connect with me:
 
 [<img align="left" alt="MRvirusIR.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MRvirusIR | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="xAmir.xt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DevilCod3 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="DevilCod3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -45,6 +45,6 @@
 </details>
 
 [website]: https://MRvirusIR.ir
-[instagram]: https://instagram.com/xAmir.xt
-[telegram]: https://t.me/MRvirusIR
+[instagram]: https://instagram.com/DevilCod3
+[telegram]: https://t.me/DevilCod3
 [webdevplaylist]: https://github.com/MRvirusIR
