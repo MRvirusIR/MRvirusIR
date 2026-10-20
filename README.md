@@ -1,50 +1,83 @@
-### Hi there, I'm Amir - aka [MRvirusIR][website] 👋
+<div align="center">
 
-[![Website](https://img.shields.io/website?label=MRvirusIR.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://MRvirusIR.ir)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amir+%E2%80%94+aka+MRvirusIR+%F0%9F%91%8B;Security+Researcher+%7C+Bug+Hunter;Tool+Developer+%7C+Founder+of+BugCod3" alt="Typing SVG" />
 
-## I'm a Developer!!
+**From Shadows To Shells ⚡**
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Interesting fact: I love programming and games / entertainment
+[![Telegram](https://img.shields.io/badge/Telegram-BugCod3-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BugCod3)
+[![X](https://img.shields.io/badge/X-@BugCod3-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BugCod3)
+[![Website](https://img.shields.io/badge/Web-BugCod3.com-E11D48?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bugcod3.com)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:BugCod3@protonmail.com)
 
-### Connect with me:
-
-[<img align="left" alt="MRvirusIR.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DevilCod3 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="DevilCod3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="Php" width="26px" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/php-512.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />][webdevplaylist]
-
-<br />
-<br />
+</div>
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  ![г-н.вирус GitHub stats](https://github-readme-stats.vercel.app/api?username=MRvirusIR&show_icons=true&theme=radical)
+## 🕶️ About Me
 
-</a>
+- 🐞 Offensive security enthusiast focused on **bug bounty, recon, and OSINT**
+- 🛠️ I build open-source **security tools** in **Go** and **Python**
+- 📡 Founder of [**@BugCod3**](https://t.me/BugCod3) — a Telegram community of **6.5K+** members sharing hacking tools, bug bounty resources, and security news
+- 🤖 I also develop **custom Telegram bots** — automation, shop bots, payment integration, AI features, and custom APIs
+- ⚔️ Motto: **Learn • Hunt • Dominate**
 
-</details>
+---
 
-[website]: https://MRvirusIR.ir
-[instagram]: https://instagram.com/DevilCod3
-[telegram]: https://t.me/DevilCod3
-[webdevplaylist]: https://github.com/MRvirusIR
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| 🩸 [**Revelar**](https://github.com/MRvirusIR/Revelar) | Unmask the real origin IP behind CDNs (Cloudflare, Akamai, Fastly, Imperva, CloudFront). 18+ OSINT sources, CDN fingerprinting, DNS/SPF/ASN pivoting, favicon & TLS hunting, smart origin scoring. | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| 🌐 [**BugCod3 IP CDN Scanner**](https://github.com/MRvirusIR/BugCod3-IP-CDN-Scanner) | High-performance async network intelligence tool for analyzing IPs, domains, and CIDR ranges. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| 🔎 [**Dork Scraper**](https://github.com/MRvirusIR/Dork-Scraper) | Google dork scraper for recon and red team engagements. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+
+<div align="center">
+
+[![Revelar](https://github-readme-stats.vercel.app/api/pin/?username=MRvirusIR&repo=Revelar&theme=radical)](https://github.com/MRvirusIR/Revelar)
+[![IP CDN Scanner](https://github-readme-stats.vercel.app/api/pin/?username=MRvirusIR&repo=BugCod3-IP-CDN-Scanner&theme=radical)](https://github.com/MRvirusIR/BugCod3-IP-CDN-Scanner)
+
+</div>
+
+---
+
+## 🧰 Skills & Tools
+
+**Security:** Bug Bounty · Web Pentesting · Recon & Asset Discovery · OSINT · CDN / Origin IP Discovery · Subdomain Enumeration
+
+**Languages & Tech:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,php,js,html,css,nodejs,mysql&theme=dark" alt="Languages" />
+</p>
+
+**Tools & Platforms:**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,docker,vscode&theme=dark" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MRvirusIR&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRvirusIR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MRvirusIR&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+Got a security project, a collab idea, or need a custom Telegram bot?\
+Reach me via [**@BugCod3BOT**](https://t.me/BugCod3BOT) or join the community group [**@BugCod3GP**](https://t.me/BugCod3GP).
+
+![Profile Views](https://komarev.com/ghpvc/?username=MRvirusIR&color=e11d48&style=flat-square&label=Profile+Views)
+
+</div>
